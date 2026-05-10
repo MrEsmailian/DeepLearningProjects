@@ -13,6 +13,7 @@ dataset generators, and output results.
 
 ## Repository Structure
 
+```
 DeepLearningProjects/
 ├── P01.Feed.Forward.Neural.Networks/
 │   ├── Deep_Learning_Project1.ipynb      # Main notebook
@@ -50,6 +51,7 @@ DeepLearningProjects/
     ├── Problem.Script.Fa.pdf
     ├── PEFT/
     └── Output/
+```
 
 ---
 
